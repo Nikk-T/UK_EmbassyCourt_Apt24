@@ -1,0 +1,22 @@
+Crosspoint listing for C:\Users\Nikolay\Documents\Work_files_and_projects\Coding_and_data\!!!Crestron_Projects\UK_Embassy\CP3\Embassy24_v2_june_2023.SMW
+
+Note:  Crosspoint symbols with EquipID or ControlID set to 0d are not routeable.
+
+Equipment Crosspoint Routing.                                                                       EquipID
+===========================================================================================================
+S-7.1.1                                                                                             201
+S-7.2.1                                                                                             202
+S-7.3.1                                                                                             204
+S-7.4.1                                                                                             205
+S-7.5.1                                                                                             206
+S-7.6.1                                                                                             207
+S-7.7.1                                                                                             208
+S-7.8.1                                                                                             209
+
+Control Crosspoint Routing.                                                                         ControlID
+=============================================================================================================
+S-3.1.1                                                                                             107
+S-3.2.1                                                                                             108
+S-3.3.1                                                                                             109
+S-3.4.1                                                                                             110
+
