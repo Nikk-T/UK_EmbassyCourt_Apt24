@@ -1,4 +1,4 @@
-Crosspoint listing for C:\Users\Nikolay\Documents\Work_files_and_projects\Coding_and_data\!!!Crestron_Projects\UK_Embassy\CP3\Embassy24_v2_june_2023.SMW
+Crosspoint listing for C:\Users\ntaga\Coding\CRESTRON\UK_EmbassyCourt_Apt24\CP3\Embassy24_v2_june_2023.SMW
 
 Note:  Crosspoint symbols with EquipID or ControlID set to 0d are not routeable.
 
